@@ -1,0 +1,7 @@
+Z:\sistema_venta\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+Z:\sistema_venta\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+Z:\sistema_venta\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+Z:\sistema_venta\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+Z:\sistema_venta\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+Z:\sistema_venta\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+Z:\sistema_venta\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
