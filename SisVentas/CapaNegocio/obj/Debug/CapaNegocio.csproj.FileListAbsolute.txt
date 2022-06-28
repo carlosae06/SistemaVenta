@@ -1,0 +1,10 @@
+Z:\sistema_venta\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+Z:\sistema_venta\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+Z:\sistema_venta\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+Z:\sistema_venta\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+Z:\sistema_venta\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll.config
+Z:\sistema_venta\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+Z:\sistema_venta\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+Z:\sistema_venta\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+Z:\sistema_venta\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+Z:\sistema_venta\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
